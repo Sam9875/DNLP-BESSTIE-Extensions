@@ -1,0 +1,11 @@
+Model,Paradigm,en-AU,en-IN,en-UK,Mean
+ALBERT-base-v2,Fine-tuned,0.57,0.61,0.65,0.61
+BERT-base-uncased,Fine-tuned,0.55,0.56,0.63,0.58
+DeBERTa-v3-base,Fine-tuned,0.38,0.42,0.41,0.4
+RoBERTa-base,Fine-tuned,0.58,0.62,0.64,0.61
+BART-large-MNLI,NLI zero-shot,0.61,0.63,0.66,0.63
+DeBERTa-v3-large (Laurer),NLI zero-shot,0.58,0.63,0.65,0.62
+RoBERTa-large-MNLI,NLI zero-shot,0.61,0.61,0.66,0.63
+XLM-R-large-XNLI,NLI zero-shot,0.57,0.57,0.63,0.59
+DeBERTa-v3-large (vanilla),Pseudo zero-shot,0.52,0.45,0.47,0.48
+FLAN-T5-large,Instruction,0.47,0.46,0.41,0.45

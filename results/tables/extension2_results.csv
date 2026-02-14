@@ -1,0 +1,4 @@
+Model,Macro-F1,Accuracy,Macro-Precision,Macro-Recall
+Baseline (CE),0.584,0.747,0.665,0.581
+Augmented (CE+Aug),0.699,0.763,0.698,0.7
+SupCon+CE+Aug,0.649,0.747,0.667,0.64
